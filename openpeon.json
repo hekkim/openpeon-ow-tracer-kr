@@ -1,0 +1,184 @@
+{
+  "cesp_version": "1.0",
+  "name": "tracer_kr",
+  "display_name": "트레이서 (Overwatch, 한국어)",
+  "version": "1.0.0",
+  "description": "Overwatch Tracer (트레이서) Korean voice lines",
+  "author": {
+    "name": "heecheonkim",
+    "github": "hekkim"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "ko",
+  "tags": [
+    "gaming",
+    "overwatch",
+    "blizzard",
+    "korean",
+    "tracer"
+  ],
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/TracerCavalrysHere_KR.wav",
+          "label": "안녕, 친구들! 해결사가 왔어!",
+          "sha256": "10fedede78919a12d94b3fb0aa3d4f0163591d8b43be2e3e8559026f8f2ac3f5"
+        },
+        {
+          "file": "sounds/TracerReady_KR.wav",
+          "label": "준비 완료.",
+          "sha256": "89e778c6f3595c133e7586634ab87ddb9bd7ab102c76acec66df271e055c0ff7"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/TracerGotIt_KR.wav",
+          "label": "알았어.",
+          "sha256": "1b2d53c82ac45fa7e39e3f70bcf04fc3b51e098e029687401de170b1c131230b"
+        },
+        {
+          "file": "sounds/TracerOnMyWay_KR.wav",
+          "label": "가고 있어.",
+          "sha256": "7d4fe43470be435ba86e939b785de9129ec549a639aeeaf2a014b1de8ee675ee"
+        },
+        {
+          "file": "sounds/TracerQuickFinish_KR.wav",
+          "label": "잽싸게 해치워 버리자!",
+          "sha256": "14a67151c275bc432ebdb6d1668ad2fdac643bf427f8ed8ca6858d711698aacc"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/TracerRightOnTime_KR.wav",
+          "label": "시간 딱 맞췄어.",
+          "sha256": "8f63fcc08560c897a67dd55c288b95f448603f9d435af0b80c757632a86ff00b"
+        },
+        {
+          "file": "sounds/TracerPieceOfCake_KR.wav",
+          "label": "식은 죽 먹기지.",
+          "sha256": "44f0068fd373b14d723d4871e26441dc0181b5336a779ded8d818741457ec5ca"
+        },
+        {
+          "file": "sounds/TracerThatsIt_KR.wav",
+          "label": "바로 이거지.",
+          "sha256": "580afaf9d73ed03d6247e620d1f29fb2c4055d811fefacecf29c3f20f28a4a3f"
+        },
+        {
+          "file": "sounds/TracerBrilliant_KR.wav",
+          "label": "끝내준다.",
+          "sha256": "1af3670afcf19ed6622c34b7fd4fa075b1a2b00dc48898eda98656c1d4ef6f7d"
+        },
+        {
+          "file": "sounds/TracerWhosNext_KR.wav",
+          "label": "다음은 누구야?",
+          "sha256": "b8a2c2eac53a6163c33b4b9ea0f15cd9229c4231844b593f76955d3022ffcd22"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/TracerFrustrating_KR.wav",
+          "label": "아, 답답해!",
+          "sha256": "2c93011e741a48c5af7c29b152a6a29ca72f554dd6f5063b652cfd3a57577d01"
+        },
+        {
+          "file": "sounds/TracerSoMad_KR.wav",
+          "label": "아, 열받아!",
+          "sha256": "2075dde996dd523b4e99c1a9a16716d258cfc47d4b5877b96e11a469afd28038"
+        },
+        {
+          "file": "sounds/TracerAcceleratorTrouble_KR.wav",
+          "label": "시간 가속기에 또 문제 생겼나?",
+          "sha256": "2f4f63384c41517729f10bbd46748adb76cb0b40d4bf5d4b704927361b8330c1"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/TracerNeedHelp_KR.wav",
+          "label": "여기 도움이 필요해! 도와줘!",
+          "sha256": "b48e9fcd945f1b72ab5643be1761da04d36ea4097eace4f8574ddda87a2f121c"
+        },
+        {
+          "file": "sounds/TracerWhatAreYouLooking_KR.wav",
+          "label": "저기, 뭐 봐?",
+          "sha256": "b7bda7574fd8afd835a7107eb5fd4b978a3af5f919b204ca5fa0eeda86b414a3"
+        },
+        {
+          "file": "sounds/TracerWhereWereWe_KR.wav",
+          "label": "자, 어디까지 했더라?",
+          "sha256": "5b28375363b015ce6ccbdb7cf6595dbf2a5122dfe192b224a6a2ed1ffcf53938"
+        },
+        {
+          "file": "sounds/TracerWaitForIt_KR.wav",
+          "label": "기다려 봐!",
+          "sha256": "858cc884f5bca91f05f210a650219f70aa9d2e8d5cc8bca923e9099187e2d455"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/TracerTimesUp_KR.wav",
+          "label": "시간 다 됐어.",
+          "sha256": "813d8c25d44d0d09709911b3c0bb43e7ac9d780e4c55ffddeb7a3da23b70ca99"
+        },
+        {
+          "file": "sounds/TracerOutOfTime_KR.wav",
+          "label": "시간이 없어!",
+          "sha256": "6552515503ea4ae4e94d9c506426817443a8e0c2dba92be43a986fcda29adbbf"
+        },
+        {
+          "file": "sounds/TracerUltCharging_KR.wav",
+          "label": "궁극기 충전 중이야.",
+          "sha256": "2985a03ef14a5a0f3a3439f152747c6c83c92d8f7694006da5a8db77aafe9d6d"
+        },
+        {
+          "file": "sounds/TracerHoldOn_KR.wav",
+          "label": "조금만 더 버티자.",
+          "sha256": "a0d6a3417d9727e2ce86a1dfd192d3aff5789a57a849596d603bb7c4fcf2b69e"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/TracerNoTimeToPlay_KR.wav",
+          "label": "저기, 이렇게 놀고 있을 때가 아니야!",
+          "sha256": "05ed1bc24fe0790e5047ee7ceb3a8552e123aef389d93c98df8114f744f0b955"
+        },
+        {
+          "file": "sounds/TracerDejaVu_KR.wav",
+          "label": "데자뷰 느껴 본 적 있어?",
+          "sha256": "435fd47dd2ae8bcf888271a263a6b0c53ffc150ea0fe6029c3c55af36302f4c1"
+        },
+        {
+          "file": "sounds/TracerDreamOn_KR.wav",
+          "label": "꿈도 꾸지 마!",
+          "sha256": "4a8b0040e12ae71017c7971f1402155132b801adbe466657f479a2b6a73e4a14"
+        },
+        {
+          "file": "sounds/TracerMyLine_KR.wav",
+          "label": "그건 내 대사인데!",
+          "sha256": "59a139a7609a283ffe649111a187bd85468d1901e6138bff1c8d73cde188e910"
+        }
+      ]
+    }
+  },
+  "category_aliases": {
+    "greeting": "session.start",
+    "acknowledge": "task.acknowledge",
+    "complete": "task.complete",
+    "error": "task.error",
+    "permission": "input.required",
+    "resource_limit": "resource.limit",
+    "annoyed": "user.spam"
+  }
+}
